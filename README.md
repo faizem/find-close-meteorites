@@ -8,4 +8,4 @@ This project requires python3 and requests package
 First, install pipenv
 
 `pip3 install pipenv
-pipenv run find_meteorites.py`
+pipenv run meteor/find_meteorites.py`
