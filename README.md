@@ -5,4 +5,7 @@ A demo project in Python to find the closet meteorites.
 
 This project requires python3 and requests package
 
-`python3 find_meteorites.py`
+First, install pipenv
+
+`pip3 install pipenv
+pipenv run find_meteorites.py`
